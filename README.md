@@ -1,4 +1,4 @@
-# Snake game in Excel VBA
+# Snake Game in Excel VBA
 
 This is a version of the game Snake I wrote in Excel using VBA.
 
